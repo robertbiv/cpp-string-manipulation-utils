@@ -1,0 +1,45 @@
+# Compiled executables
+loan_calculator
+loan_calculator.exe
+*.out
+*.exe
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Object files
+*.o
+*.obj
+
+# Precompiled headers
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+*~
